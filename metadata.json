@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Report ESKOTA",
+  "description": "An intelligent inventory reporting application that processes stock files, categorizes items based on urgency, and provides tools for manual stock opname and report sharing via WhatsApp.",
+  "requestFramePermissions": []
+}
